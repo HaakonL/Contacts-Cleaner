@@ -85,8 +85,8 @@
 				F8192C5328AA4A6800C51857 /* ViewModels */,
 				F8192C5228AA4A5C00C51857 /* Models */,
 				F8B87B8228AA4A0D0029D944 /* Main.swift */,
-				F8B87B8628AA4A0E0029D944 /* Assets.xcassets */,
 				F8192C5B28AA4B5F00C51857 /* Main+Bootstrap.swift */,
+				F8B87B8628AA4A0E0029D944 /* Assets.xcassets */,
 			);
 			path = "Contacts Cleaner";
 			sourceTree = "<group>";
